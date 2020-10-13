@@ -9,7 +9,7 @@ module.exports = {
   projectName: 'website', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'My Blik Site',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
